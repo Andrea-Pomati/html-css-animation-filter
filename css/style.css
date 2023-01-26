@@ -151,16 +151,9 @@
 
 100% { rotate: 0deg;
 
-
 }
 
 }
-
-
-
-
-
-
 
 .ex-12-button, .ex-13-button {
     position: relative;
@@ -175,6 +168,10 @@
     text-align: center;
     text-decoration: none;
 }
+
+
+
+
 .ex-12-top-white, .ex-13-top-white {
     position: absolute;
     top: -10px;
@@ -183,6 +180,11 @@
     width: 60px;
     height: 20px;
 }
+
+
+
+
+
 .ex-12-bottom-white, .ex-13-bottom-white {
     position: absolute;
     bottom: -10px;
